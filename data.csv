@@ -1,0 +1,52 @@
+﻿index,state,abbr,poverty,noInternet,exercise,healthcare
+1,Alabama,AL,19.3,24.4,72.4,17.4
+2,Alaska,AK,11.2,10.1,80.8,11.9
+3,Arizona,AZ,18.2,17.1,78.8,15.5
+4,Arkansas,AR,18.9,22.7,69.4,18.2
+5,California,CA,16.4,19.4,78.3,13.5
+6,Colorado,CO,12,13.2,83.6,13.1
+7,Connecticut,CT,10.8,16.3,79.4,11.3
+8,Delaware,DE,12.5,18.5,75.1,10.8
+9,District of Columbia,DC,17.7,15.4,79.2,10.5
+10,Florida,FL,16.5,18.1,76.3,17.6
+11,Georgia,GA,18.3,19.5,76.4,19
+12,Hawaii,HI,11.4,19.6,80.4,8.7
+13,Idaho,ID,14.8,13.9,81.3,15.8
+14,Illinois,IL,14.4,18.2,76.1,12.4
+15,Indiana,IN,15.2,19.3,73.9,15.1
+16,Iowa,IA,12.2,16.8,77.4,8.8
+17,Kansas,KS,13.6,16.1,76.2,12.5
+18,Kentucky,KY,19.1,21.3,71.8,15.9
+19,Louisiana,LA,19.8,23,70.5,17.5
+20,Maine,ME,14.1,15.2,80.3,10.9
+21,Maryland,MD,10.1,15.6,78.6,10.1
+22,Massachusetts,MA,11.6,14.7,79.9,8.3
+23,Michigan,MI,16.2,17,74.5,14.6
+24,Minnesota,MN,11.5,13.2,79.8,9.2
+25,Mississippi,MS,21.5,29.6,68.4,19.4
+26,Missouri,MO,15.5,18.5,75,13.7
+27,Montana,MT,15.4,17,80.4,11.9
+28,Nebraska,NE,12.4,16.4,78.7,11.8
+29,Nevada,NV,15.2,18,77.5,17.3
+30,New Hampshire,NH,9.2,10.9,80.7,11.1
+31,New Jersey,NJ,11.1,17.1,76.7,14
+32,New Mexico,NM,21.3,23.6,76.7,17.2
+33,New York,NY,15.9,20,74.1,14
+34,North Carolina,NC,17.2,21.5,76.8,16.2
+35,North Dakota,ND,11.5,17.4,78.7,7
+36,Ohio,OH,15.8,17.4,75.1,13.1
+37,Oklahoma,OK,16.6,20.4,71.7,15
+38,Oregon,OR,16.6,12.8,83.5,14.4
+39,Pennsylvania,PA,13.6,19.4,76.7,11.8
+40,Rhode Island,RI,14.3,16.9,77.5,11.9
+41,South Carolina,SC,18,22.7,74.7,18.1
+42,South Dakota,SD,14.2,18.5,78.8,10
+43,Tennessee,TN,18.3,21.9,73.2,15.5
+44,Texas,TX,17.2,21,72.4,17.6
+45,Utah,UT,11.7,10.6,83.2,14.3
+46,Vermont,VT,12.2,14,81,9.1
+47,Virginia,VA,11.8,16,76.5,13.1
+48,Washington,WA,13.2,12.6,81.9,12.3
+49,West Virginia,WV,18.3,26.8,71.3,16.5
+50,Wisconsin,WI,13.2,16.5,78.8,10.6
+51,Wyoming,WY,11.2,15.7,77.9,11.8
